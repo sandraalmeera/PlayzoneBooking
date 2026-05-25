@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Theme utama aplikasi.
+        TIDAK pakai SplashScreen theme supaya tidak ada ikon notifikasi aneh saat buka app.
+    -->
+    <style name="Theme.PlayzoneBooking" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
